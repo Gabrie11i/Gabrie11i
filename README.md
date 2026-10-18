@@ -10,7 +10,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Gabrie11i&custom_title=Meus%20stats%20do%20GitHub&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=Gabrie11i&custom_title=Meus%20stats%20do%20GitHub&show_icons=true&include_all_commits=true&theme=nightowl)
 
 ##
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Gabrie11i&layout=donut&langs_count=4&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=Gabrie11i&layout=donut&langs_count=4&theme=nightowl)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrie11i&layout=donut&theme=nightowl)](https://github.com/Gabrie11i)
 
 ##
 <div align="display: inline_block"><br>
